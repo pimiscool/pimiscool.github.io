@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(141, 141, 141);
+}
+
+h1 {
+    color: rgb(106, 0, 255);
+    margin-top: 24px;
+    margin-left: 530px;
+}
+
+button {
+    font-size: 16px;
+    padding: 5px;
+    border-radius: 20px;
+    margin-top: 330px;
+    margin-left: 670px;
+    background-color: rgb(93, 0, 255);
+}
