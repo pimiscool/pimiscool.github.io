@@ -1,18 +1,46 @@
+
 body {
-    background-color: rgb(141, 141, 141);
+    background-color: rgb(255, 255, 255);
+}
+
+.navbox > div {
+    margin-top: -124px;
+    margin-left: -10px;
+    height: 100px;
+    width: 1538px;
+    background-color: #ff9dce ;
+    }
+
+#logo { 
+	position:fixed; 
+	top:15px; 
+	left:15px; 
+} 
+
+img {
+    height: 80px;
+    width: 80px;
 }
 
 h1 {
-    color: rgb(106, 0, 255);
-    margin-top: 24px;
-    margin-left: 530px;
+    color: rgb(0, 0, 0);
+    margin-top: -74px;
+    margin-left: 100px;
 }
 
-button {
+.discordbutton > button {
     font-size: 16px;
-    padding: 5px;
+    padding: 10px;
     border-radius: 20px;
-    margin-top: 330px;
-    margin-left: 670px;
+    margin-top: -100px;
+    margin-left: 92%;
     background-color: rgb(93, 0, 255);
 }
+
+button:hover {
+    color: rgb(255, 255, 255);
+    border-color: rgb(255, 255, 255);
+    transition: 0.30s;
+
+}
+
